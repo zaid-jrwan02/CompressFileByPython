@@ -6,3 +6,4 @@ files:-
 name "secrit" > type "text" > this file will compress
     "ListOfNmae" >   "text" > this file have a names 
 * the file will compress for each name saved in file 
+Test VM
